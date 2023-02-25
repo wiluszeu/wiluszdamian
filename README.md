@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">Self-taught aspiring to become PHP/Laravel programmer</h3>
+<h3 align="center">self-taught hobbyist Laravel/PHP</h3>
 
 - 🔭 I’m currently working as [Software QA Tester](https://www.linkedin.com/in/damianwilusz/)
 
