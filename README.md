@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wiluszdamian/](https://github.com/wiluszdamian/)
 
-- 📝 I regularly write articles on [https://wilusz.eu](https://wilusz.eu)
+- 📝 My personal website is [https://wilusz.eu](https://wilusz.eu)
 
 - 💬 Ask me about **PHP, QA, Laravel**
 
