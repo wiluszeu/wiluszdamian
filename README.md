@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, QA, Laravel**
 
-- 📫 How to reach me **wilusz.damian@outlook.com**
+- 📫 How to reach me **damian@wilusz.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
